@@ -20,7 +20,7 @@ textarea {
 }
 
 .jumbotron {
-  background: linear-gradient(to right, #d63031, #6c5ce7);
+  background: linear-gradient(to right, #dcd9e0, #161618);
   text-align: center;
   color: white;
   border-radius: 0;
@@ -50,7 +50,7 @@ textarea {
 }
 
 .hour {
-  background-color: #ffeaa7;
+  background-color: #f9f9f9;
   color: rgb(82, 82, 82);
   padding-top: 27px;
   padding-left: 10px;
